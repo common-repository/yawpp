@@ -1,0 +1,18 @@
+/*Feuille de style du plugin YAWPP */
+
+.wrap img.logo{
+	vertical-align: middle;
+}
+
+.yawppfield {
+	border: 1px solid #b8b3b3;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	width: 730px;
+}
+
+.footeryawpp{
+	text-align: right;
+	margin-right: 30px;
+}
